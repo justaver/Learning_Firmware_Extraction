@@ -131,7 +131,7 @@ Example contents:
 
 ## **Repository Structure**
 
-irmware-Extraction-Study/
+Learning_Firmware_Extraction/
 │
 ├── README.md
 ├── src/
